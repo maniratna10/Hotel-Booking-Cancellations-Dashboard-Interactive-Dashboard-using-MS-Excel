@@ -32,7 +32,7 @@ Includes reservation details like guest type, hotel type, arrival year, booking 
 ---
 
 ## Dashboard  
-![Ferns-and-Petals-Sales-Dashboard](https://github.com/your-username/your-repo-name/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.png)
+![Ferns-and-Petals-Sales-Dashboard](https://github.com/maniratna10/Hotel-Booking-Cancellations-Dashboard-Interactive-Dashboard-using-MS-Excel/blob/main/Dashboard.png)
 
 ---
 
